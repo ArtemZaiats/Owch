@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Owch</string>
+
+    <string name="map_box_api_key">pk.eyJ1IjoiZGlsYW5zcGEiLCJhIjoiY2xxZGk4cnk5MGJ3ZjJpdGthb2hwcHNuaiJ9.qnUrGNHffT19wia8R3GsHQ</string>
+</resources>
